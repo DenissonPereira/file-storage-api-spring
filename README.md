@@ -1,5 +1,26 @@
 ![Web 1](./public/images/post.png) 
 
+<p align="center">
+  <a href="https://github.com/DenissonPereira/file-storage-api-spring">
+    <img src="https://img.shields.io/github/languages/top/DenissonPereira/file-storage-api-spring" alt="Primary Language">
+  </a>
+  <a href="https://github.com/DenissonPereira/file-storage-api-spring/issues">
+    <img src="https://img.shields.io/github/issues-raw/DenissonPereira/file-storage-api-spring" alt="Open Issues">
+  </a>
+  <a href="https://github.com/DenissonPereira/file-storage-api-spring/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/DenissonPereira/file-storage-api-spring" alt="Contributors">
+  </a>
+  <a href="https://github.com/DenissonPereira/file-storage-api-spring/commits/main">
+    <img src="https://img.shields.io/github/last-commit/DenissonPereira/file-storage-api-spring" alt="Last Commit">
+  </a>
+  <a href="https://github.com/DenissonPereira/file-storage-api-spring/stargazers">
+    <img src="https://img.shields.io/github/stars/DenissonPereira/file-storage-api-spring?style=social" alt="Stars">
+  </a>
+</p>
+
+
+
+
 # 📑 Sobre o projeto 
 
 O projeto é uma aplicação em **java** desenvolvida utilizando o framework **Spring Boot** para oferecer uma **API** de armazenamento de arquivos. Essa **API** permite que os usuários *enviem*, *baixem* e *listem* arquivos de um diretório específico no servidor. A estrutura do projeto foi organizada de acordo com as práticas recomendadas do **Spring Boot**, incluindo a separação de classes em diferentes pacotes. A funcionalidade principal da **API** inclui o **upload de arquivos**, a **geração de links para download** e a **listagem dos arquivos disponíveis**. Com isso, o projeto proporciona uma solução eficiente e escalável para gerenciar o armazenamento e o acesso a arquivos em um ambiente de aplicação *web*.
