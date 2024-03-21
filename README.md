@@ -21,8 +21,9 @@ O projeto é uma aplicação em **java** desenvolvida utilizando o framework **S
 
 <img src="./public/images/menina.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
 
 
 # 🚀 Como executar o projeto 🚀
@@ -64,7 +65,8 @@ Dê uma espiada no nosso projeto em funcionamento e esclareça todas as suas dú
 
 Neste projeto, foi utilizado o Visual Studio Code como editor de código.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 
 # 🚨 Aguarde! Ainda não terminou!
