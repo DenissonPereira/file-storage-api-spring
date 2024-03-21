@@ -16,12 +16,6 @@ O projeto é uma aplicação em **java** desenvolvida utilizando o framework **S
 
 # 🚀 Como executar o projeto 🚀
 
-[![Badge](https://img.shields.io/badge/Java-17-%23FFA500?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-
-## ⚙ Pré-requisitos
-
-[![Badge](https://img.shields.io/badge/Java-17-%23FFA500?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-
 ## ⬇️ Clonar repositório git
 
 ```
