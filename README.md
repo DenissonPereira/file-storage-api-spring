@@ -19,7 +19,7 @@ O projeto é uma aplicação em **java** desenvolvida utilizando o framework **S
 
 ## 📚 Stack Tecnológica
 
-<img src="./public/menina.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
+<img src="./public/images/menina.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
