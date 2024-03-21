@@ -47,7 +47,7 @@ http://localhost:8080/api/files/list
 Dê uma espiada no nosso projeto em funcionamento e esclareça todas as suas dúvidas sobre como executá-lo!
 
 ## 🏂 Aplicação em ação
-![Web 1](./public/images//upload.giff) 
+![Web 1](./public/images//upload.gif) 
 
 ## 📺 Editor de código
 
