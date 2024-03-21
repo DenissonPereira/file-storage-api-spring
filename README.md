@@ -1,4 +1,4 @@
-# 👽 File Storage API Spring
+![Web 1](./public/images/post.png) 
 
 # 📑 Sobre o projeto 
 
@@ -10,6 +10,7 @@ O projeto é uma aplicação em **java** desenvolvida utilizando o framework **S
 <img src="./public/menina.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
 
 [![Badge](https://img.shields.io/badge/Java-17-%23FFA500?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Badge](https://img.shields.io/badge/Maven-Dependency%20Management-%23C71A36?style=flat&logo=apache%20maven&logoColor=white)](https://maven.apache.org/)
 [![Badge](https://img.shields.io/badge/Spring%20Boot-3.2.3-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Badge](https://img.shields.io/badge/Spring_Web-2.6.4-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
 
